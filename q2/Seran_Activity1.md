@@ -16,3 +16,4 @@ hierarchy? Why?
  I would place the "Intern" class under the "Employee" class, alongside "Programmer", "Manager", and "Cleaner".
 
    An intern is a type of employee, so it can inherit the common properties and methods of "Employee". It may also have its own unique properties and methods, such as an internship duration or assigned supervisor.
+   
